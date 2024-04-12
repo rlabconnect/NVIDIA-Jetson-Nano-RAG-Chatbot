@@ -8,7 +8,7 @@ A NVIDIA Jetson Nano RAG Chatbot is an AI-powered conversational assistant desig
 4. Generates contextual and fluent responses based on the retrieved knowledge, tailored for university students' needs.
 5. Deployable on the energy-efficient Jetson Nano platform for embedded and edge computing applications on campus.
 
-                                                                                    ![Block Diagram](block_diagram.png)
+                                            ![image](https://github.com/rlabconnect/NVIDIA-Jetson-Nano-RAG-Chatbot/assets/166736790/24df3ed3-d8ed-486a-9024-13378da14e17)
 
 ## Installation
 
