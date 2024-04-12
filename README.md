@@ -44,3 +44,24 @@ http://localhost:8501
 11. Assign a drive letter to the partition by typing 'assign letter=<drive_letter>' and pressing Enter, replacing <drive_letter> with the desired drive letter (e.g., E:).
 12. To make the SD card bootable, type 'active' and press Enter.
 13. Exit DiskPart by typing 'exit' and pressing Enter.
+
+## Connect to WiFi on Jetson Nano
+
+1. Run the following command to list the available WiFi networks:
+
+   ```bash
+   nmcli device wifi list
+   ```
+
+   This will display a list of available WiFi networks along with their SSID, mode, and signal strength.
+
+2. Identify the SSID of the WiFi network you want to connect to.
+
+3. Run the following command to connect to the WiFi network:
+   ```bash
+   nmcli device wifi connect <SSID> password <password>
+   ```
+4. You can verify the connection by running the following command:
+   ```bash
+   nmcli device status
+   ```
