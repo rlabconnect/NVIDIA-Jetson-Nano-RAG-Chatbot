@@ -1,5 +1,13 @@
 # FAQ Chatbot
 
+A NVIDIA Jetson Nano RAG Chatbot is an AI-powered conversational assistant designed to run on the NVIDIA Jetson Nano platform. It utilizes the Retrieval Augmented Generation (RAG) architecture, which combines the power of retrieval-based and generation-based language models. This chatbot is capable of retrieving relevant information from a knowledge base and generating fluent and contextual responses. It can be deployed on the energy-efficient and compact Jetson Nano, making it suitable for embedded and edge computing applications.
+
+1. AI-powered conversational assistant for university students, designed for the NVIDIA Jetson Nano.
+2. Specialized in answering frequently asked questions related to university life, admissions, academics, and student services.
+3. Utilizes Retrieval Augmented Generation (RAG) architecture to retrieve relevant information from a university FAQ knowledge base.
+4. Generates contextual and fluent responses based on the retrieved knowledge, tailored for university students' needs.
+5. Deployable on the energy-efficient Jetson Nano platform for embedded and edge computing applications on campus.
+
 ![Block Diagram](block_diagram.png)
 
 ## Installation
