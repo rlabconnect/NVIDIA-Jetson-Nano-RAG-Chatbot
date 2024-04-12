@@ -1,5 +1,7 @@
 # FAQ Chatbot
 
+![Block Diagram](block_diagram.png)
+
 ## Installation
 
 1. Clone the repository:
