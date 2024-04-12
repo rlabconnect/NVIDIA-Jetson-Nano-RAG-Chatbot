@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amitb0ra/chatbot/
+   git clone https://github.com/rlabconnect/NVIDIA-Jetson-Nano-RAG-Chatbot/
    cd chatbot
    ```
 
