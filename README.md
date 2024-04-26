@@ -21,6 +21,21 @@ https://youtu.be/_bGodEZf23s
    cd chatbot
    ```
 
+## Why Docker?
+
+Docker is being used here to provide a consistent and isolated environment for running the chatbot application. It allows us to package all the necessary dependencies and configurations into a single container, making it easier to deploy and manage the application across different platforms and environments. Additionally, Docker provides a lightweight and efficient runtime, which is especially beneficial for resource-constrained devices like the NVIDIA Jetson Nano. By using Docker, we can ensure that the chatbot application runs smoothly and consistently, regardless of the underlying system setup.
+
+2. Install Docker:
+
+   - For Ubuntu, run the following commands:
+
+     ```bash
+     sudo apt-get update
+     sudo apt-get install docker.io
+     ```
+
+   - For other operating systems, refer to the official Docker documentation: [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
+
 ## Docker Deployment
 
 1. Build the Docker image:
