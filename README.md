@@ -17,7 +17,7 @@ https://youtu.be/_bGodEZf23s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rlabconnect/NVIDIA-Jetson-Nano-RAG-Chatbot/
+   git clone https://github.com/rlabconnect/NVIDIA-Jetson-Nano-RAG-Chatbot/ chatbot
    cd chatbot
    ```
 
